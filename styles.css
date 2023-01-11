@@ -1,0 +1,22 @@
+body {
+  background-color: #cbe7f3;
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+  margin: 70px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-text {
+  text-align: center;
+}
+.attribution {
+  justify-content: flex-end;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
