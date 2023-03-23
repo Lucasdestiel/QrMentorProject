@@ -1,1 +1,1 @@
-Projeto do frontend mentor,utilizando Html e Css - Bootstrap.
+Projeto/desafio do frontend mentor,utilizando Html, Css e Bootstrap.
